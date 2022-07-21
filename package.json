@@ -24,7 +24,7 @@
     "tape": "^5.2.2"
   },
   "optionalDependencies": {
-    "phantomjs-prebuilt": "^2.1.16"
+    "phantomjs-prebuilt": "https://github.com/harsh-at-neosoft/phantomjs.git"
   },
   "repository": {
     "type": "git",
